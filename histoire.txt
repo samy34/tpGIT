@@ -22,7 +22,7 @@ Pas facile avec un groupe
             XXXXXXYYYYZZZZYXX
           XXXXYZZYYXZZZZZZZYYXXXX
          _XXX_XXYYX__---------- XXZZX
-         _XX______@@_XYZZZZZX----XXZX
+         _XX______OO_XYZZZZZX----XXZX
         XXZZXYX__XYXZZZZZZZZZYX----XZZX
        XXYZZXXZ___XXZYZZZZZZYYX-----XZYXX
      XZ---YXX--___X--ZYYXXYX---------XZZZX
