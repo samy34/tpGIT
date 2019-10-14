@@ -16,6 +16,18 @@ Il etait une fois ...
 
 quinzes personnes dans une salle
 
+le ciel gris
+
+la pluie
+
+GIT
+
+quinzes personnes dans une salle qui font un repo git ...
+Pas facile
+
+
+quinzes personnes dans une salle
+
 test branche
 
 
