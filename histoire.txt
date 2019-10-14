@@ -1,5 +1,8 @@
 Titre " Une belle histoire "
 
+test
+
+
 
 Happy Halloween :D
 
@@ -23,6 +26,24 @@ chapitre 1
 
 Il etait une fois ...
 
+
+quinzes personnes dans une salle
+
+le ciel gris
+
+la pluie
+
+GIT
+
+quinzes personnes dans une salle qui font un repo git ...
+Pas facile
+
+
+quinzes personnes dans une salle
+
+test branche
+
+
 quinzes personnes dans une salle qui font un repo git ...
 
 Pas facile
@@ -35,7 +56,7 @@ Pas facile avec un groupe
             XXXXXXYYYYZZZZYXX
           XXXXYZZYYXZZZZZZZYYXXXX
          _XXX_XXYYX__---------- XXZZX
-         _XX______@@_XYZZZZZX----XXZX
+         _XX______OO_XYZZZZZX----XXZX
         XXZZXYX__XYXZZZZZZZZZYX----XZZX
        XXYZZXXZ___XXZYZZZZZZYYX-----XZYXX
      XZ---YXX--___X--ZYYXXYX---------XZZZX
@@ -76,3 +97,4 @@ Pas facile avec un groupe
                   YYXYZYXXZXX                      XXXYYZZZZZXXZZXZ
              YYYYXYYZYYXYZZZ                       XXYZZZZXXXZZ
          XXYYYXXXXZZZXXXXZ
+
