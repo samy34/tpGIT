@@ -5,3 +5,9 @@ test2
 Il etait une fois ...
 
 quinzes personnes dans une salle
+
+le ciel gris
+
+la pluie
+
+GIT
